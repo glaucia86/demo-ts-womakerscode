@@ -4,8 +4,6 @@ Demos realizadas durante o evento Wo makers Code!
 
 **p.s.: deseja tirar um certificado desse curso?! Basta clicar (disponível na UDEMY) - [AQUI](https://www.udemy.com/curso-typescript-para-desenvolvedores-c)**
 
-Demos realizadas durante a palestra na Meetup: .NET Caxias do Sul.
-
 A apresentação da palestra encontra-se [AQUI](https://pt.slideshare.net/GlauciaLemos/apresentao-introduo-typescript-net-caxias-do-sul)
 
 ### Configuração do Ambiente de Desenvolvimento:
