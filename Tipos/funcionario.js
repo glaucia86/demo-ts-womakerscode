@@ -8,7 +8,7 @@ function dadosFuncionario(nome, sobrenome, idade, email, status, salario, tempoE
     console.log("Salário.............: R$ " + salario);
     console.log("Tempo de Empresa....: " + tempoEmpresa);
 }
-dadosFuncionario("Glaucia", "Lemos", 30, "glaucia@xpto.com", true, 1000, "Não sei....");
+dadosFuncionario("Glaucia", "Lemos", 30, "glaucia@xpto.com", true, 1000, "5 anos de empresa");
 /**
  *
  * Tipos em TypeScript:

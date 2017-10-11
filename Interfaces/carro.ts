@@ -15,9 +15,7 @@ class Veiculo implements ICarro {
     }
 }
 
-function dirigirRapido(carro: ICarro): void {  
-    carro.motorista(100);
-}
+
 
 let corridaCarro = new Veiculo();  
 dirigirRapido(corridaCarro);

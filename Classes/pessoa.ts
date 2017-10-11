@@ -32,5 +32,5 @@ class Pessoa {
     }
 }
 
-let pessoa = new Pessoa("Glaucia", "Lemos", 30, "glaucia@xpto.com", 5, 1000, true);
+let pessoa = new Pessoa("Glaucia", "Lemos", 30, "glaucia@xpto.com", 5, 1000, true );
 pessoa.dadosPessoa();
